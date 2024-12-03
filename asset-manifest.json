@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a3cbe4d.css",
+    "main.js": "/static/js/main.27b31259.js",
+    "static/js/453.0cc909b6.chunk.js": "/static/js/453.0cc909b6.chunk.js",
+    "static/media/노션로고.png": "/static/media/노션로고.82cf87e26ea79bc2ae9b.png",
+    "static/media/Rew@rd.svg": "/static/media/Rew@rd.30c0c127c6ade4f4e3f3721b9f2fc2a2.svg",
+    "index.html": "/index.html",
+    "main.3a3cbe4d.css.map": "/static/css/main.3a3cbe4d.css.map",
+    "main.27b31259.js.map": "/static/js/main.27b31259.js.map",
+    "453.0cc909b6.chunk.js.map": "/static/js/453.0cc909b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a3cbe4d.css",
+    "static/js/main.27b31259.js"
+  ]
+}
